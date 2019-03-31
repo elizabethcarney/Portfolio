@@ -1,2 +1,2 @@
 # Portfolio
-My coding and design portfolio!
+Check out my coding and design portfolio!
